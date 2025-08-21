@@ -33,7 +33,7 @@ The fake label directory should be as follows.
 			|-- 1
 			
 ```
-You can download the fake labels from baidu Netdisk.
+You can download the fake labels for MVTec AD, VisA and BTAD from baidu Netdisk.
 链接: https://pan.baidu.com/s/1lprjJG4DeERaowz4dtG25g 提取码: g8dn
 
 - **Modify path**
@@ -46,8 +46,10 @@ You can download the fake labels from baidu Netdisk.
 - **Results and checkpoints**. 
 
 ![Image text](images/result.png)
+You can download the checkpoints for MVTec AD, VisA and BTAD from baidu Netdisk.
+链接: https://pan.baidu.com/s/1MDKBMbJ-ohhu9jnhTBASHQ 提取码: b9d3
 
-
+The code is implemented in pytorch, and most basic codes are from UniAD and MSTAD , a big thanks to their great work.
 
 
 
