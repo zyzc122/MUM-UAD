@@ -4,8 +4,6 @@ Official PyTorch Implementation of [Enhancing Unsupervised Unified Anomaly Detec
 ![Image text](images/1.png)
 ![Image text](images/framework.png)
 
-
-
 - **Create the dataset directory**. Download the dataset. The dataset directory should be as follows. 
 
 ```
@@ -44,12 +42,14 @@ You can download the fake labels for MVTec AD, VisA and BTAD from baidu Netdisk.
 - **Train or eval** by running python tools/train_val.py
 
 - **Results and checkpoints**. 
-
-![Image text](images/result.png)
 You can download the checkpoints for MVTec AD, VisA and BTAD from baidu Netdisk.
 链接: https://pan.baidu.com/s/1MDKBMbJ-ohhu9jnhTBASHQ 提取码: b9d3
 
-The code is implemented in pytorch, and most basic codes are from UniAD and MSTAD , a big thanks to their great work.
+![Image text](images/result.png)
+
+
+
+The code is implemented in pytorch, and most basic codes are from UniAD(https://github.com/zhiyuanyou/UniAD) and UMNet(https://github.com/yifanw90/UMNet), a big thanks to their great work.
 
 
 
