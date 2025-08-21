@@ -47,9 +47,7 @@ You can download the checkpoints for MVTec AD, VisA and BTAD from baidu Netdisk.
 
 ![Image text](images/result.png)
 
-
-
-The code is implemented in pytorch, and most basic codes are from UniAD(https://github.com/zhiyuanyou/UniAD) and UMNet(https://github.com/yifanw90/UMNet), a big thanks to their great work.
+The code is implemented in pytorch, and most basic codes are from UniAD(https://github.com/zhiyuanyou/UniAD), DRAEM(https://github.com/VitjanZ/DRAEM), UMNet(https://github.com/yifanw90/UMNet), a big thanks to their great work.
 
 
 
